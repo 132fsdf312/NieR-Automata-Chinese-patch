@@ -47,7 +47,7 @@
 
 1. 首先要拥有一份干净的游戏文件，即没有装过任何自定义模组和其他汉化程序的游戏文件。
 
-> 干净的游戏文件列表，可以参考[此文件](tutorial/filelist.txt)
+> 干净的游戏文件列表，可以参考[此文件](other/filelist.txt)
 
 2. 通过本页面上方链接下载最新软件包。
 
@@ -143,13 +143,15 @@ QQ群：162212815
 
 本工具是完全免费的，现在和以后都不会加入任何广告和恶意代码。作者平时上班比较忙，为了开发了这个工具付出了很多宝贵的业余时间。如果你有心想支持鼓励作者继续开发维护的话，可以请作者喝杯咖啡，或者与作者分享你喜欢的零食。 :yum: 
 
+![](other/zhifubao.png)
+![](other/qq.png)
+![](other/weixin.png)
+
 >  :loudspeaker:  :loudspeaker:  :loudspeaker:   
-> **请务必备注您来自“尼尔汉化”之类的关键词**，以便后续更新将您的名字加入到捐赠者名单。  
+> **请务必备注您来自“尼尔汉化”之类的关键词**，以便后续更新将您的名字加入到本项目的捐赠者名单。  
 > 如果发现没有您的名字，或者名字有误，联系我后，可以通过提供订单号截图来修改。
 
-![](https://gitee.com/WLongWLong/update/raw/master/other/QRCode/zhifubao.png)
-![](https://gitee.com/WLongWLong/update/raw/master/other/QRCode/qq.png)
-![](https://gitee.com/WLongWLong/update/raw/master/other/QRCode/weixin.png)
+![](other/tops.png)
 
 #### 捐赠者名单
 
@@ -157,6 +159,7 @@ QQ群：162212815
 
 |捐赠日期|渠道|捐赠者昵称|备注|
 |---|---|---|---|
+|2024/09/1|微信|*安| |
 |2024/08/21|微信|A*l| |
 |2024/08/16|微信|*l| |
 |2024/08/10|微信|*🐟| |
