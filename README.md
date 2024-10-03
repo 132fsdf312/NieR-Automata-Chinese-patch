@@ -14,18 +14,22 @@
 
 #### 下载链接
 
+[蓝奏云（提取码: e283)](https://wlongwlong.lanzouj.com/ihTrL2bhcwje)
+
 [百度云盘（提取码: n8vp）](https://pan.baidu.com/s/1Rkp3olc36IutmCstug2SLg?pwd=n8vp)
+
 [夸克网盘（提取码: LA2T）](https://pan.quark.cn/s/24d581a9aca4)
-[123云盘（不限速）（提取码: kZiL）](https://www.123pan.com/s/Ux9Fjv-3IgZh.html)
+
+[123云盘（提取码: kZiL）](https://www.123pan.com/s/Ux9Fjv-3IgZh.html)
 
 > 防止下载过程中出现文件损坏，请下载后检验文件哈希  
-> File: NieR_Chinese.zip  
-> CRC32: FCA4ABA5  
-> MD5: 5229E051619E7431E55790E330E41ACA  
-> SHA-1: 89122FD72D86B27DCA8A544218D04AD601ED0FB1  
-> SHA-256: 9C105475A243159AD974AC3F890138A46ABD24FA9C90A78247BC1B99DA92A6DF
+> File: NieR_Automata龙版汉化（电脑版）.zip  
+> CRC32: 88D75F89  
+> MD5: A12E13B38D08494EFF100D5C0788B5E4  
+> SHA-1: 2B8ADF33451B5242AAC38516D1AEF214E2D212B2  
+> SHA-256: CA680ECA4E01109B131BFE4A6B03E5D2F12A1FDC684EDA01F3ADEBC26A0E5BB2
 
-> 当前汉化补丁版本号：0.0.1  
+> 当前汉化补丁版本号：1.2.0  
 > 提示：后续更新提醒和 BUG 修复，只在本仓库和 B 站发布动态。  
 > 欢迎关注我的 [B 站账号](https://space.bilibili.com/316424202)
 
@@ -52,11 +56,11 @@
 
 ![](tutorial/001.png)
 
-3. 将下载得到的 NieR_Chinese.zip 文件解压到任意自己能找到的位置，建议将程序文件夹放到游戏文件夹中，方便后续升级或卸载汉化补丁。
+3. 将下载得到的 NieR_Automata龙版汉化（电脑版）.zip 文件解压到任意自己能找到的位置，建议将程序文件夹放到游戏文件夹中，方便后续升级或卸载汉化补丁。
 
 ![](tutorial/002.png)
 
-4. 打开 NieR_Chinese 文件夹，启动 LangTools.exe 。
+4. 在解压出来的文件中找到 LangToolsSetup.exe，双击启动它。
 
 ![](tutorial/003.png)
 
@@ -86,9 +90,9 @@
 
 > 注意：进行以下步骤之前，建议手动将游戏文件夹备份，以防不测。一旦出现任何问题，作者概不负责。
 
-1. 打开 NieR_Chinese 文件夹，启动 LangTools.exe 。
+1. 在桌面或者开始菜单中找到 LangTools 程序，启动它。
 
-2. 设定好游戏文件夹的路径。
+2. 设定好游戏文件夹的路径（正常情况下，默认已经设置好）。
 
 3. 点击程序右下角的“移除汉化”按钮，等待提示完成即可。
 
