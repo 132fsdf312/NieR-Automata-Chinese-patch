@@ -25,16 +25,16 @@
 
 [123云盘（提取码: kZiL）](https://www.123pan.com/s/Ux9Fjv-3IgZh.html)
 
-> 当前汉化补丁版本号：1.2.1  
+> 当前汉化补丁版本号：1.2.2  
 > 提示：后续更新提醒和 BUG 修复，只在本仓库和 B 站发布动态。  
 > 欢迎关注我的 [B 站账号](https://space.bilibili.com/316424202)
 
-**电脑端 Steam 版**和**微软 Xbox 版**游戏，只需下载“**NieR_Automata龙版汉化1.2.1（电脑版）.zip**”，解压后，找到“**LangToolsSetup.exe**”即可启动安装程序。  
+**电脑端 Steam 版**和**微软 Xbox 版**游戏，只需下载“**NieR_Automata龙版汉化1.2.2（电脑版）.zip**”，解压后，找到“**LangToolsSetup.exe**”即可启动安装程序。  
 **Steam Deck 掌机版**游戏，只需下载“**NieR_Automata龙版汉化(Deck掌机版).zip**”，解压后，将得到的两个新文件手动移动到游戏所在目录中的“**data**”文件夹里，并覆盖同名文件。
 
-> File: NieR_Automata龙版汉化1.2.1（电脑版）.zip  
-> MD5: F5824E67F5EA2D7EDD6F346AA35A55A0  
-> SHA-256: A368A3D1E666B4AC9643B9B6BD44546F2CF1279ADCBE6BC023FD8AA4A1B43BA7
+> File: NieR_Automata龙版汉化1.2.2（电脑版）.zip  
+> MD5: 65C0ECA674AAAEEF346E66A81F1157CC  
+> SHA-256: CAAB656BAA26EBD68A6F4F705D8A552689E35F1E3BC525B4C4EC27265C9F1C78
 
 > File: NieR_Automata龙版汉化(Steam Deck专用).zip  
 > MD5: A3D411BC49A37E62E07B6F28F28532B5  
