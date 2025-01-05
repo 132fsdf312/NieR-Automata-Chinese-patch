@@ -187,9 +187,9 @@ QQ群：162212815
 
 #### 捐赠者名单
 
- :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  
+ :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  
  :point_right:  :point_right: [查看令人引以为傲的捐赠者名单](donate.md) :point_left:  :point_left:  
  :point_right:  :point_right: [查看令人引以为傲的捐赠者名单](donate.md) :point_left:  :point_left:  
  :point_right:  :point_right: [查看令人引以为傲的捐赠者名单](donate.md) :point_left:  :point_left:  
- :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  
+ :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  
 
