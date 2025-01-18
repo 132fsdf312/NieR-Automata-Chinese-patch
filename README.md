@@ -19,7 +19,7 @@
 
 [百度云盘（提取码: n8vp）](https://pan.baidu.com/s/1Rkp3olc36IutmCstug2SLg?pwd=n8vp)
 
-[123云盘（提取码: kZiL）](https://www.123pan.com/s/Ux9Fjv-3IgZh.html)
+[123云盘(登录后不限速)（提取码: kZiL）](https://www.123pan.com/s/Ux9Fjv-3IgZh.html)
 
 > 当前汉化补丁版本号：1.3  
 > 提示：后续更新提醒和 BUG 修复，只在本仓库和 B 站发布动态。  
