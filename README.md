@@ -56,7 +56,7 @@
 
 ![](tutorial/001.png)
 
-3. 将下载得到的“龙版汉化XX版.zip”文件解压到任意自己能找到的位置。
+3. 将下载得到的“龙版汉化XX版.zip”文件解压到任意自己能找到的位置。如果使用系统自带的解压功能报错，可以尝试更换其他压缩解压软件如 [7zip](https://www.7-zip.org/download.html)、[WinRAR](https://www.rarlab.com/download.htm)、[Bandizip](https://www.bandisoft.com/bandizip/)、360压缩、2345好压等软件。
 
 ![](tutorial/002.png)
 
