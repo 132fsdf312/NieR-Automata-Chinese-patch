@@ -54,9 +54,7 @@
 > **不要使用某俄语网站下载的第三方修改过的游戏文件。**  
 > 干净的游戏文件列表，可以参考[简化版文件列表](other/filelist.txt)或[文件列表截图](other/filelist.png)，以及[完整版文件列表](other/filelistall.txt)。
 
-2. 通过本页面[上方链接](#下载链接)下载最新汉化包。
-
-![](tutorial/001.png)
+2. 通过本页面[上方链接](#下载链接)下载最新汉化包。 ** 确保下载的文件后缀名是“.zip”结尾，否则自行检查汉化包是否下载成功。** 
 
 3. 将下载得到的“龙版汉化XX版.zip”文件解压到任意自己能找到的位置。如果使用系统自带的解压功能报错，可以尝试更换其他压缩解压软件如 [7zip](https://www.7-zip.org/download.html)、[WinRAR](https://www.rarlab.com/download.htm)、[Bandizip](https://www.bandisoft.com/bandizip/)、360压缩、2345好压等软件。
 
