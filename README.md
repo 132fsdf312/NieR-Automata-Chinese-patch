@@ -1,4 +1,9 @@
-# NieR_Chinese
+# NieR:Automata 中文语言补丁（龙版汉化）
+
+> 📦 **GitHub 镜像** — 原项目托管于 [Gitee: WLongWLong/nier_chinese](https://gitee.com/WLongWLong/nier_chinese)
+> 原作者: **WLongWLong** | 本仓库同步自 Gitee，仅供 GitHub 用户方便访问
+
+---
 
 #### 介绍
 
