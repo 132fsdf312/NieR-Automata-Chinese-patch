@@ -1,178 +1,233 @@
-# NieR:Automata 中文语言补丁（龙版汉化）
+<p align="center">
+  <img src="assets/header.svg" width="800" alt="NieR:Automata 中文补丁">
+</p>
 
-> 📦 **GitHub 镜像** — 原项目托管于 [Gitee: WLongWLong/nier_chinese](https://gitee.com/WLongWLong/nier_chinese)
-> 原作者: **WLongWLong** | 本仓库同步自 Gitee，仅供 GitHub 用户方便访问
+<p align="center">
+  <img src="https://img.shields.io/badge/版本-1.3%20龙版汉化-c9a84c" alt="版本">
+  <img src="https://img.shields.io/badge/平台-Steam%20|%20Xbox%20|%20SteamDeck-4476b0" alt="平台">
+  <img src="https://img.shields.io/badge/类型-官方翻译提取-666" alt="类型">
+  <img src="https://img.shields.io/badge/语言-简体中文%20|%20繁体中文-d4d4d4" alt="语言">
+  <img src="https://img.shields.io/badge/状态-长期更新-4caf50" alt="状态">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+</p>
+
+<p align="center">
+  <a href="https://gitee.com/WLongWLong/nier_chinese">📦 Gitee 原项目</a>
+  &nbsp;&middot;&nbsp;
+  <a href="#安装汉化补丁">📖 安装教程</a>
+  &nbsp;&middot;&nbsp;
+  <a href="#下载链接">⬇️ 下载补丁</a>
+  &nbsp;&middot;&nbsp;
+  <a href="#联系和反馈">💬 联系作者</a>
+</p>
 
 ---
 
-#### 介绍
+> 📦 **GitHub 镜像** — 本仓库同步自 [Gitee: WLongWLong/nier_chinese](https://gitee.com/WLongWLong/nier_chinese)  
+> 原作者: **WLongWLong** | 仅供 GitHub 用户方便访问，原项目以 Gitee 为准
 
-[龙版汉化项目主页](https://gitee.com/WLongWLong/nier_chinese)
+## 📖 项目介绍
 
-通过提取 Switch 版 NieR:Automata 的官方简体中文和繁体中文制作。  
-目前游戏界面和物品翻译基本与 Switch 没有区别，并且完整翻译 DLC 剧情任务，以及 DLC 附带物品。  
-龙版汉化的优势在于，采用官方翻译，相比其他第三方翻译更加贴合原著。角色名称、物品名称等更加标准化，随着时间的推移更多人会倾向于官方设定的名称，方便查找资料攻略等。
+通过提取 **Switch 版《NieR:Automata》的官方简体中文和繁体中文**制作的全新汉化补丁。
 
-纯个人作品，没有团队，本工具完全免费，现在和以后都不会加入任何广告和恶意代码。  
-因游戏内容巨大，难免存在测试不周的情况。若你遇到汉化导致的错误，请从各种渠道向我提交反馈，以便及时修复问题。
+- ✅ 完整翻译 **DLC 剧情任务** 及 DLC 附带物品
+- ✅ 采用 **官方翻译**，角色名称、物品名称标准化
+- ✅ 相比第三方翻译更贴合原著，方便查找攻略资料
+- ✅ 纯个人作品，**完全免费**，无广告无恶意代码
 
-#### 截图
+> 💡 **龙版汉化的优势**：基于官方 Switch 版翻译，质量最高，更新最活跃
 
-[截图预览](screenshots.md)
+## 📸 截图预览
 
-#### 下载链接
+<p align="center">
+  <a href="screenshots.md">👉 查看完整汉化效果截图（14张）</a>
+</p>
 
-[123云盘（提取码: kZiL）](https://www.123865.com/s/Ux9Fjv-3IgZh?pwd=kZiL#)
-[百度云盘（提取码: n8vp）](https://pan.baidu.com/s/1Rkp3olc36IutmCstug2SLg?pwd=n8vp)
+<p align="center">
+  <a href="screenshots.md"><img src="screenshots/01.png" width="22%" alt="截图1"></a>
+  <a href="screenshots.md"><img src="screenshots/02.png" width="22%" alt="截图2"></a>
+  <a href="screenshots.md"><img src="screenshots/03.png" width="22%" alt="截图3"></a>
+  <a href="screenshots.md"><img src="screenshots/04.png" width="22%" alt="截图4"></a>
+</p>
 
-123云盘相比百度云盘的速度会快一点，但是需要注册账号把文件转存到自己账号里才能免费下载。  
-建议通过本文“[联系和反馈](#联系和反馈)”章节，免费进群后，从群文件中获取所需资源。
+<p align="center">
+  <a href="screenshots.md">📷 更多游戏内截图 →</a>
+</p>
 
-> 当前汉化补丁版本号：1.3  
-> 提示：后续更新提醒和 BUG 修复，只在本仓库和 B 站发布动态。  
-> 欢迎关注我的 [B 站账号](https://space.bilibili.com/316424202)
+## ⬇️ 下载链接
 
-龙版汉化分为 **基础版** 和 **增强版** 两个版本，根据自己的喜好 **二选一下载** 即可。
+| 网盘 | 链接 | 提取码 | 说明 |
+|------|------|--------|------|
+| ☁️ **123云盘** | [点击下载](https://www.123865.com/s/Ux9Fjv-3IgZh?pwd=kZiL#) | `kZiL` | 速度较快，需注册转存 |
+| ☁️ **百度网盘** | [点击下载](https://pan.baidu.com/s/1Rkp3olc36IutmCstug2SLg?pwd=n8vp) | `n8vp` | 经典网盘，速度较慢 |
+| 💬 **QQ群文件** | 加入下方 QQ群 | — | 免费进群获取 |
 
- **基础版：** 
-一比一移植的官方翻译，不做任何修改，争取与 NS 掌机的内容相同。官方翻译存在错别字或者汉化不全的问题，4K 分辨率下可能存在字体模糊的情况，适合喜欢原汁原味的玩家。
+> **当前版本：1.3** | 后续更新和 BUG 修复在本仓库和 [B站](https://space.bilibili.com/316424202) 发布
 
- **增强版：** 
-重制所有字体贴图，使之兼容 4K 分辨率。修复官方汉化中出现的错别字，补充官方汉化未翻译的部分，汉化游戏主界面的菜单为中文。
+## 📦 版本选择
 
-此汉化包兼容 Steam 版，微软商店版，以及 SteamDeck 掌机版，安装方法均相同。
+龙版汉化分为两个版本，**二选一下载即可**：
 
-> File: 龙版汉化基础版.zip  
-> MD5: F5E59E78E0881C207CB453BFB2383CFE  
-> SHA-256: BFB0908DA7D893463B645744CB708C6762ED69AC28A8708B1060BC76A50542A6
+| 版本 | 特点 | 适合人群 |
+|------|------|----------|
+| 🎯 **基础版** | 一比一移植官方翻译，与 NS 掌机内容相同 | 喜欢原汁原味的玩家 |
+| 🚀 **增强版** | 重制字体贴图，**兼容 4K 分辨率**，修复官方错别字，补充未翻译部分，汉化主界面菜单 | 追求最佳体验的玩家 |
 
-> File: 龙版汉增强版.zip  
-> MD5: 339D492E7CF3F2C6BD5F2723F4DF09A0  
-> SHA-256: 6FBD6323E769C39D97B9A1192B55423BEB3AECBDBAD19C1EE61CBA1D4836468C
+> **兼容性：** Steam 版 · 微软商店版 · SteamDeck 掌机版，安装方法均相同
 
-#### 安装汉化补丁
+### 文件校验
 
-> **注意：**  
-> 如果你已经安装旧的龙版汉化，请打开 LangTools 工具，将汉化补丁移除，然后在开始菜单中将 LangToos 工具从计算机中卸载，并同时选择清除配置文件。现在新的汉化补丁已经用不到 LangToos 程序。  
-> 如果你的 LangTools 工具出现问题，无法正常启动。请尝试手动删除游戏目录中 data 文件夹里的所有文件夹和“data201.cpk”文件后，再使用 Steam 验证游戏文件的完整性功能修复游戏文件。
+| 文件 | MD5 | SHA-256 |
+|------|-----|---------|
+| `龙版汉化基础版.zip` | `F5E59E78E0881C207CB453BFB2383CFE` | `BFB0908DA7D893463B645744CB708C6762ED69AC28A8708B1060BC76A50542A6` |
+| `龙版汉增强版.zip` | `339D492E7CF3F2C6BD5F2723F4DF09A0` | `6FBD6323E769C39D97B9A1192B55423BEB3AECBDBAD19C1EE61CBA1D4836468C` |
 
-1.  **首先要拥有一份干净的游戏文件**，即没有装过任何自定义模组和其他汉化程序的游戏文件。除非你完全确定自己的模组文件不会影响汉化。
+## 📥 安装汉化补丁
 
-> **不要使用某俄语的第三方修改版游戏文件，以及其衍生版本**。俄语与中文存在文件冲突。  
-> 干净的游戏文件列表，可以参考[简化版文件列表](other/filelist.txt)或[文件列表截图](other/filelist.png)，以及[完整版文件列表](other/filelistall.txt)。
+> ⚠️ **如果你已安装旧版龙版汉化**：先打开 LangTools 工具移除汉化，再到开始菜单卸载 LangTools 并清除配置文件。  
+> 如果 LangTools 无法启动：手动删除 `data` 目录下所有文件夹和 `data201.cpk`，然后用 Steam 验证游戏文件完整性。
 
-2. 通过本页面[上方链接](#下载链接)下载最新汉化包。 **确保下载的文件后缀名是“.zip”结尾，否则自行检查汉化包是否下载成功。** 
+### 安装步骤
 
-3. 将下载得到的“龙版汉化XX版.zip”文件解压到任意自己能找到的位置。如果使用系统自带的解压功能报错，可以尝试更换其他压缩解压软件如 [7zip](https://www.7-zip.org/download.html)、[WinRAR](https://www.rarlab.com/download.htm)、[Bandizip](https://www.bandisoft.com/bandizip/)、360压缩、2345好压等软件。
+#### 1️⃣ 准备干净的游戏文件
+确保游戏**没有装过任何自定义模组和其他汉化程序**。
 
-![](tutorial/002.png)
+> ⚠️ **不要使用俄语第三方修改版游戏文件及其衍生版本**，俄语与中文存在文件冲突。  
+> 参考：[简化版文件列表](other/filelist.txt) | [文件列表截图](other/filelist.png) | [完整版文件列表](other/filelistall.txt)
 
-4. 找到游戏的安装目录并打开。
+#### 2️⃣ 下载汉化包
+从[上方链接](#下载链接)下载最新汉化包，**确保后缀名为 `.zip`**。
 
-> Steam 版：  
-> ![](tutorial/003.png)
+#### 3️⃣ 解压汉化包
+将 `龙版汉化XX版.zip` 解压到任意位置。如果系统自带解压报错，可尝试 [7zip](https://www.7-zip.org/download.html)、[WinRAR](https://www.rarlab.com/download.htm) 等软件。
 
-> Xbox 版：  
-> ![](tutorial/004.png)
+<p align="center"><img src="tutorial/002.png" width="70%" alt="解压教程"></p>
 
-5. 将游戏目录中 data 文件夹里的“data100.cpk”文件备份或者重命名，以便后续进行还原。
+#### 4️⃣ 找到游戏安装目录
 
-![](tutorial/005.png)
+| 平台 | 路径 |
+|------|------|
+| **Steam 版** | 库 → NieR:Automata → 右键 → 管理 → 浏览本地文件 |
+| **Xbox 版** | 安装目录下的 `data` 文件夹 |
 
-6. 将“data100.cpk”和“data201.cpk”两个文件，移动到游戏的 data 文件夹中。
+<p align="center">
+  <img src="tutorial/003.png" width="45%" alt="Steam路径">
+  <img src="tutorial/004.png" width="45%" alt="Xbox路径">
+</p>
 
-![](tutorial/011.png)
+#### 5️⃣ 备份原文件
+将游戏目录 `data` 文件夹中的 **`data100.cpk`** 备份或重命名，以便后续还原。
 
-7. 打开 Steam，进入库的 NieR:Automata 页面。点击右边齿轮，选择“属性。”  
-在“通用”选项卡中，将语言改成“德语”后，游戏即可显示简体中文。如果需要繁体中文，请将语言改成“西班牙语”。（此步骤只影响游戏启动时的第一次 Loading 动画的显示语言，对游戏本身的显示语言并无影响）
+<p align="center"><img src="tutorial/005.png" width="70%" alt="备份文件"></p>
 
-![](tutorial/006.png)
-![](tutorial/007.png)
+#### 6️⃣ 复制补丁文件
+将解压得到的 **`data100.cpk`** 和 **`data201.cpk`** 两个文件移动到游戏的 `data` 文件夹中。
 
-8. 启动游戏，打开游戏选项，将语言调成“简体中文”或“繁体中文”即可。
+<p align="center"><img src="tutorial/011.png" width="70%" alt="复制文件"></p>
 
-![](tutorial/010.png)
+#### 7️⃣ 设置 Steam 语言
+在 Steam 库中右键 NieR:Automata → 属性 → 通用，将语言改为：
 
-9. 恭喜，你已经可以享受中文版本的 NieR:Automata 了。
+| 目标语言 | Steam 语言设置 |
+|----------|---------------|
+| **简体中文** | **德语** |
+| **繁体中文** | **西班牙语** |
 
-#### 移除汉化补丁
+<p align="center">
+  <img src="tutorial/006.png" width="45%" alt="Steam设置1">
+  <img src="tutorial/007.png" width="45%" alt="Steam设置2">
+</p>
 
-1.打开游戏的安装目录。
+#### 8️⃣ 游戏内切换语言
+启动游戏，在选项中将语言调为 **简体中文** 或 **繁体中文**。
 
-2.删除游戏目录中 data 文件夹里的“data100.cpk”和“data201.cpk”两个文件。
+<p align="center"><img src="tutorial/010.png" width="60%" alt="语言选择"></p>
 
-3.将安装时备份的“data100.cpk”文件还原到 data 文件夹里。
+#### 9️⃣ 🎉 完成！
+恭喜，你已经可以享受中文版本的 NieR:Automata 了！
 
-#### 关于补丁安装出错的处理方案
+### 移除汉化补丁
 
-> 遇到问题应该先自行尝试解决，研究一番实在无果的时候再去考虑请教别人。  
-> 如需求助，请详细描述自己遇到的问题，并提供截图、问题发生的步骤等。  
+1. 打开游戏安装目录
+2. 删除 `data` 文件夹中的 `data100.cpk` 和 `data201.cpk`
+3. 将备份的 `data100.cpk` 还原到 `data` 文件夹中
 
-首先要保证从网盘下载的补丁文件没有发生损坏，几率很小但有可能会发生下载文件不完整的情况，最常见的就是解压压缩包的时候，系统提示无法解压或文件损坏，这种只要重新下载补丁文件来解决。
+### 补丁安装出错处理
 
-其次要保证游戏文件的完整性和正确性，更多的时候，汉化补丁没有安装成功都是因为游戏文件发生了变更（比如安装了其他汉化补丁或者模组）。需要提前将游戏文件恢复成原样，可以在 Steam 左边游戏列表里找到“NieR:Automata™”，在“NieR:Automata™”上点击右键，在弹出的菜单里点击“属性”。在属性窗口左边点击“已安装文件”菜单，在右边点击“验证游戏文件的完整性”按钮。完整性验证完成后，重新安装补丁即可。
+| 问题 | 解决方案 |
+|------|----------|
+| **压缩包损坏** | 重新下载补丁文件 |
+| **游戏文件被修改** | Steam 验证游戏文件完整性 |
+| **其他问题** | 加 QQ 群询问（见下方） |
 
-![](tutorial/008.png)
-![](tutorial/009.png)
+> Steam 验证完整性：库 → NieR:Automata → 右键 → 属性 → 已安装文件 → 验证游戏文件的完整性
 
-其他无法解决的问题，请加 QQ 群询问。
+<p align="center">
+  <img src="tutorial/008.png" width="45%" alt="验证1">
+  <img src="tutorial/009.png" width="45%" alt="验证2">
+</p>
 
-#### 与其他汉化补丁的比较
+## 📊 与其他汉化补丁对比
 
-|				|DLC汉化	|官方翻译	|简体中文支持	|繁体中文支持	|日文支持	|英文支持	|更新状态	|
-|---|---|---|---|---|---|---|---|
-|天邈汉化1.4		|支持	|非官方翻译	|支持			|不支持			|不支持		|支持		|不再更新	|
-|轩辕汉化6.5		|支持	|非官方翻译	|支持			|不支持			|支持		|不支持		|不再更新	|
-|PS版提取1.1		|支持	|官方翻译	|不支持			|支持			|支持		|不支持		|不再更新	|
-|甲辰龙年版汉化	|支持	|官方翻译	|支持			|支持			|支持		|支持		|长期更新中	|
+| 汉化版本 | DLC汉化 | 翻译来源 | 简体中文 | 繁体中文 | 日文支持 | 英文支持 | 更新状态 |
+|----------|---------|----------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| **🐉 甲辰龙年版** | ✅ 支持 | **官方翻译** | ✅ | ✅ | ✅ | ✅ | 🟢 **长期更新** |
+| 天邈汉化 1.4 | ✅ 支持 | 非官方翻译 | ✅ | ❌ | ❌ | ✅ | 🔴 不再更新 |
+| 轩辕汉化 6.5 | ✅ 支持 | 非官方翻译 | ✅ | ❌ | ✅ | ❌ | 🔴 不再更新 |
+| PS版提取 1.1 | ✅ 支持 | 官方翻译 | ❌ | ✅ | ✅ | ❌ | 🔴 不再更新 |
 
-还有其他略冷门的汉化补丁，比如游侠汉化，多合一汉化等，因为我使用较少，暂不参与比较。
+## 🎮 Mod 支持
 
-#### 关于 Mod 支持
+原则上只要 Mod 跟汉化文件没有冲突，影响不大。建议**先安装汉化补丁，再安装 Mod**。
 
-原则上只要 Mod 文件跟汉化文件没有冲突，基本不会有太大影响。但鉴于 Mod 的安装方式多种多样，实在难以保证兼容性。就目前的游戏状态来说，画质和性能已经比刚发布好太多，并不建议额外折腾 Mod。如果实在需要 Mod 请先安装汉化补丁后再安装 Mod。
+> 画质和性能已经比刚发布时好太多，不建议额外折腾 Mod。
 
-#### 关于 微软商店的尼尔机械纪元成神版
+## 🪟 微软商店版说明
 
-由于本汉化程序现阶段基于 Steam 平台的优尔哈版制作，而微软版与 Steam 版游戏文件基本相似，所以直接安装可以使用。但相似不等于相同，至于会不会出现兼容性问题，还有待大家测试。
+本汉化基于 **Steam 版**制作，微软商店版因文件结构相似可直接使用。但相似不等于相同，兼容性有待测试。
 
-#### 已知问题
+## ⚠️ 已知问题
 
-关于游乐园 Boss 的名字与 Switch 版游戏显示不相同的问题，这其实并不是汉化导致的 BUG。因为官方为她设置了两个不同名字的词条，在不同的语言中会分别调用各自的词条。比如日文中显示的是“ボーヴォワール”，翻译成中文意思大概是“波娃”，而英文中显示的是“Simone”，翻译成中文也就是“西蒙”。虽然可以强制将文本改过来，但这会导致中文翻译与对应词条的意思不相同，这很不优雅甚至会导致新的 BUG，所以这个版本暂时不打算做任何修改。
+### 游乐园 Boss 名字差异
+游乐园 Boss 在日文中显示「ボーヴォワール」（波娃），英文中显示「Simone」（西蒙）。这是官方设置的不同词条调用，不是汉化 BUG，暂不修改。
 
-本补丁基于 21 版游戏文件提取制作，因此目前不支持 17 版游戏，等以后有时间会添加 17 版的支持。
+### 版本限制
+本补丁基于 **21 版游戏文件**制作，目前**不支持 17 版**游戏。
 
-#### 联系和反馈
+## 💬 联系和反馈
 
-QQ群：
+| 渠道 | 说明 |
+|------|------|
+| 💬 **QQ群①** | 162212815（已满） |
+| 💬 **QQ群②** | 163614804（已满） |
+| 💬 **QQ群③** | 163617787 |
+| 📺 **B站** | [@316424202](https://space.bilibili.com/316424202) |
+| 📦 **Gitee** | [WLongWLong/nier_chinese](https://gitee.com/WLongWLong/nier_chinese) |
 
-尼尔汉化模组交流群①：162212815（已满）
+> 🙏 只想拿资源不聊天的朋友请主动退群，给新人留出位置。
 
-尼尔汉化模组交流群②：163614804（已满）
+## ☕ 支持开发者
 
-尼尔汉化模组交流群③：163617787
+本工具**完全免费**，无广告无恶意代码。作者利用业余时间开发维护，如果你觉得好用，可以请作者喝杯咖啡 ❤️
 
-不情之请：因为群聊人数日益爆满，还麻烦只想拿资源不打算聊天的朋友主动退下群，以便给后来的新人留出位置。当然想聊天和寻求帮助的可以留下来，群聊进出不会添加任何限制。
+<p align="center">
+  <img src="other/zhifubao.png" width="200" alt="支付宝">
+  <img src="other/weixin.png" width="200" alt="微信">
+</p>
 
-#### 支持开发者
+> ⚠️ **务必备注「尼尔汉化」**，否则难以区分捐助来源  
+> 妥善保存订单号，后期可能为捐助用户提供专属功能
 
-本工具是完全免费的，现在和以后都不会加入任何广告和恶意代码。作者平时上班比较忙，为了开发了这个工具付出了很多宝贵的业余时间。如果你有心想支持鼓励作者继续开发维护的话，可以请作者喝杯咖啡，或者与作者分享你喜欢的零食。 :yum: 
+<p align="center">
+  <img src="other/tops.png" width="80%" alt="感谢名单">
+</p>
 
-![](other/zhifubao.png)
-![](other/weixin.png)
+<p align="center">
+  <a href="donate.md">🏆 查看令人引以为傲的捐赠者名单 →</a>
+</p>
 
->  :loudspeaker:  :loudspeaker:  :loudspeaker:   
-> **请务必备注您来自“尼尔汉化”之类的关键词**，不然我难以区分您的捐助来自哪个项目。  
-> 如果发现名单中没有您的名字，或者名字有误，联系我后，可以通过提供订单号来修改。  
-> **请妥善保存您的订单号，后期可能会为已捐助用户提供专属功能（专属名称、外观等）。**
+---
 
-![](other/tops.png)
-
-#### 捐赠者名单
-
- :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  
- :point_right:  :point_right: [查看令人引以为傲的捐赠者名单](donate.md) :point_left:  :point_left:  
- :point_right:  :point_right: [查看令人引以为傲的捐赠者名单](donate.md) :point_left:  :point_left:  
- :point_right:  :point_right: [查看令人引以为傲的捐赠者名单](donate.md) :point_left:  :point_left:  
- :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_up_2:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  :point_down:  
-
+<p align="center">
+  <sub>Made with ❤️ by <strong>WLongWLong</strong> · 同步至 GitHub 方便海外用户访问</sub>
+</p>
